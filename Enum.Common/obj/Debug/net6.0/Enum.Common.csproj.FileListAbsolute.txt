@@ -1,0 +1,11 @@
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\bin\Debug\net6.0\Enum.Common.deps.json
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\bin\Debug\net6.0\Enum.Common.dll
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\bin\Debug\net6.0\Enum.Common.pdb
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\obj\Debug\net6.0\Enum.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\obj\Debug\net6.0\Enum.Common.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\obj\Debug\net6.0\Enum.Common.AssemblyInfo.cs
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\obj\Debug\net6.0\Enum.Common.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\obj\Debug\net6.0\Enum.Common.dll
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\obj\Debug\net6.0\refint\Enum.Common.dll
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\obj\Debug\net6.0\Enum.Common.pdb
+D:\ASP\Asp.net\KiemTraCuoiModule2\Enum.Common\obj\Debug\net6.0\ref\Enum.Common.dll

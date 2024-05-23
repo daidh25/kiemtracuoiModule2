@@ -1,0 +1,17 @@
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.csproj.AssemblyReference.cache
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.AssemblyInfo.cs
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\bin\Debug\net6.0\KiemTraCuoiModule2.deps.json
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\bin\Debug\net6.0\KiemTraCuoiModule2.runtimeconfig.json
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\bin\Debug\net6.0\KiemTraCuoiModule2.dll
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\bin\Debug\net6.0\KiemTraCuoiModule2.pdb
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\bin\Debug\net6.0\Enum.Common.dll
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\bin\Debug\net6.0\Enum.Common.pdb
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.csproj.CopyComplete
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.dll
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\refint\KiemTraCuoiModule2.dll
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.pdb
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\KiemTraCuoiModule2.genruntimeconfig.cache
+D:\ASP\Asp.net\KiemTraCuoiModule2\KiemTraCuoiModule2\obj\Debug\net6.0\ref\KiemTraCuoiModule2.dll
